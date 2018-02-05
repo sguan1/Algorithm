@@ -4,7 +4,7 @@ import java.util.Map;
 /**
  * Created by candy on 2/2/18.
  */
-public class containDuplicates {
+public class containDuplicates_Tree {
     public static void main(String[] args) {
         System.out.println(containsNearbyAlmostDuplicate(new int[]{-3,3},2 ,4));
     }
